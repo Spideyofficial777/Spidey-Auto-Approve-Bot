@@ -1,7 +1,7 @@
 from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid
 from pyrogram import Client, filters
 from pyrogram.types import *
-from motor.motor_asyncio import AsyncIOMotorClient  
+from motor.motor_asyncio import  
 from os import environ as env
 import asyncio, datetime, time
 
