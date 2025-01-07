@@ -7,13 +7,12 @@ from bgremove import RemoveBG
 from database import add_user, add_group, all_users, all_groups, users, remove_user
 
 # Configuration
-API_ID = "28519661"
-API_HASH = "d47c74c8a596fd3048955b322304109d"
-BOT_TOKEN = "7236731343:AAHzJYfnwvBQDekYq8sSKY5cXS1GgJTQsgk"
-CHANNEL_ID = -1001959922658# Replace with your channel ID
-SUDO_USERS = [5518489725]  # Replace with your admin user ID(s)
-MONGO_URI = "mongodb+srv://spideyofficial777:6FwYFNcgrAPL8nqq@spidey777.pykfj.mongodb.net/?retryWrites=true&w=majority&appName=SPIDEY777"
-
+API_ID = ""
+API_HASH = ""
+BOT_TOKEN = ""
+CHANNEL_ID = # Replace with your channel ID
+SUDO_USERS = []  # Replace with your admin user ID(s)
+MONGO_URI = ""
 # Image URLs
 welcome_image_url = "https://i.ibb.co/CPxdkHR/IMG-20240818-192201-633.jpg"
 background_image_url = "https://i.ibb.co/RymDMxS/66e7d1b6.jpg"
